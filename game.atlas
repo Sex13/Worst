@@ -1,0 +1,62 @@
+
+game.png
+size: 1024, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Statue of the Leader
+  rotate: false
+  xy: 4, 340
+  size: 584, 584
+  orig: 584, 584
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Moai
+  rotate: false
+  xy: 4, 4
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Moai
+  rotate: false
+  xy: 4, 4
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Background
+  rotate: false
+  xy: 4, 172
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+NationIcons/Korea
+  rotate: false
+  xy: 596, 499
+  size: 424, 425
+  orig: 424, 425
+  offset: 0, 0
+  index: -1
+ResourcePortraits/Background
+  rotate: false
+  xy: 596, 363
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ResourcePortraits/Cursed Gold
+  rotate: false
+  xy: 172, 204
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/City center-Babylon-Ancient era
+  rotate: false
+  xy: 732, 363
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1

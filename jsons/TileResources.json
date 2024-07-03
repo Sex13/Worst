@@ -1,0 +1,7 @@
+[
+    {
+        "name": "Cursed Gold",
+        "resourceType": "Strategic",
+        "uniques": ["Not shown on world screen <when below [1] [Cursed Gold]>", "Stockpiled", "Cannot be traded"]
+    }
+]

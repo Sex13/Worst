@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Moai",
+		"uniqueTo": "Polynesia",
+		"terrainsCanBeBuiltOn": ["Land", "Water"],
+		"faith": 1,
+		"turnsToBuild": 4,
+		"uniques": [
+			"Can be built outside your borders", 
+			"[+1 Culture] for each adjacent [Moai] <in cities following our religion>", 
+			"Adjacent enemy units ending their turn take [10] damage <in cities following our religion>", 
+			"Pillaging this improvement yields approximately [+10 Gold]"
+		],
+		"techRequired": "Construction",
+		"shortcutKey": "M"
+	}
+]
